@@ -1,0 +1,35 @@
+<-- Easy -->
+Find and remove duplicates from a list.
+Write a script to reverse a string.
+Create a program to count the frequency of each item in a list.
+Write a script to split a file into smaller chunks.
+Develop a program to rename multiple files in a directory based on a pattern.
+Write a script to create a dictionary from two lists.
+Write a program to convert a list of tuples into a dictionary.
+Create a script to calculate the sum of numbers in a text file.
+Write a program to compare two text files and print the differences.
+Develop a script to convert a string to title case.
+
+<-- Medium -->
+Write a program to remove duplicate lines from a file.
+Create a script to merge two lists into a sorted list without duplicates.
+Write a script to monitor a directory and print any changes (files added/removed).
+Develop a program to convert all file names in a directory to lowercase.
+Write a program to fetch and save system uptime and load averages to a log file.
+Create a tool to read YAML configuration files and check for syntax errors.
+Write a script to clean up old log files older than a given number of days.
+Write a program to find the intersection and differences between two lists.
+Develop a script to automate the generation of SSH keys for multiple servers.
+Create a program to count the number of occurrences of a specific string across all files in a directory.
+
+<-- Hard -->
+Write a script to sync files between two directories (local or remote).
+Create a program to identify and remove unused Docker images and containers.
+Develop a tool to analyze the sizes of directories and suggest clean-up actions.
+Write a script to implement basic rate-limiting logic for an API server.
+Write a program to find and fix broken symlinks in a file system.
+Develop a script to extract and summarize error codes from an Nginx log file.
+Create a tool to automate the deployment of a containerized app to Kubernetes.
+Write a program to analyze server CPU usage trends and predict potential bottlenecks.
+Write a script to generate SSL certificates and verify their installation on a server.
+Develop a tool to create and manage snapshots of cloud infrastructure.
